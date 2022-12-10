@@ -4,7 +4,7 @@ using namespace std;
 
 #define ll long long
 
-/*Approach: */
+/*Approach: using merge sort we first sort both the array and then check from first index on both the array*/
 
 //Time Complexity = O()
 //Auxillary Space = O()
