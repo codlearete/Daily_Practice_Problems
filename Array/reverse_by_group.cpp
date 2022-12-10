@@ -2,7 +2,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-/*Approach: */
+/*Approach: To reverse the array element we swap the element*/
 
 //Time Complexity = O()
 //Auxillary Space = O()
