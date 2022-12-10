@@ -4,7 +4,7 @@ using namespace std;
 
 /*Approach: */
 
-//Time Complekity = O()
+//Time Complexity = O()
 //Auxillary Space = O()
 
 void inputArray(vector<long long>&v,int n)
