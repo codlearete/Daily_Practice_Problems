@@ -1,16 +1,8 @@
-for(int j=0;j<n;j++)
-        // {
-            
-        //     if(sum != s)
-        //     {
-        //         if(sum>s)
-        //         {
-        //             sum -= arr[j];
-        //         }
-        //     }
-        //     else
-        //     {
-        //         min = j;
-        //         max = i;
-        //     }
-        // }
+void printArray(vector<int>&v,int n)
+// {
+//     for(int i=0;i<n;i++)
+//     {
+//         cout<<v[i]<<" ";
+//     }
+//     cout<<endl;
+// }
